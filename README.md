@@ -1,4 +1,4 @@
-# MRAoverDihedralGroup
+# DihedralMRA
 
 A Complementary software for the paper: "Dihedral multi-reference alignment”
 Paper authors: Tamir Bendory, Dan Edidin, William Leeb, and Nir Sharon.
